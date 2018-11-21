@@ -1,2 +1,2 @@
 # Prescription Scanner
-This repository handwriting scanners in medical prescription written by chemist and doctors.
+This repository contains handwriting scanners in medical prescription written by chemist and doctors.
